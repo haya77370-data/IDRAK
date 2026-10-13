@@ -1,5 +1,3 @@
-# IDRAK Project
-
 # IDRAK | NLP Banking Intent Classification System
 
 ## The problem. What are we trying to solve?
